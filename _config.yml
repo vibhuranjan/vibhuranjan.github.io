@@ -3,6 +3,5 @@ description:
 google_analytics: 
 show_downloads: true
 theme: just-the-docs
-
-gems:
-  - just-the-docs
+ 
+gems: just-the-docs
