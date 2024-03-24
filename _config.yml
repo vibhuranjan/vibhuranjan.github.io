@@ -3,3 +3,5 @@ description:
 google_analytics: 
 show_downloads: true
 theme: jekyll-theme-basically-basic
+
+gem "jekyll-theme-basically-basic"
